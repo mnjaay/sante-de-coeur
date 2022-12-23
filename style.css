@@ -1,0 +1,14 @@
+#logo{
+    border-radius: 30px;
+}
+
+#image1{
+    opacity: .6;
+    color: green;
+}
+#para{
+    position: absolute;
+    margin-left: 200px;
+    margin: -20px;
+    color: rgb(85, 179, 85);
+}
